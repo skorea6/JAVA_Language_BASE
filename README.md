@@ -26,3 +26,7 @@ JAVA 언어 기초 배우기
 
 - F2: 오류 해결
 - Alt + Enter = 오류 해결  
+
+# [2021.05] Spring Boot, JPA 연습
+![Scan_20210504_162540](https://user-images.githubusercontent.com/13993684/116972083-797afb80-acf5-11eb-966e-93c9981d0c3a.jpg)
+
